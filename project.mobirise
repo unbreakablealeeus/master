@@ -68,7 +68,8 @@
           "_name": "image1",
           "_styles": {
             "DIV": {
-              "text-align": "center"
+              "text-align": "left",
+              "font-size": "9px"
             }
           },
           "_anchor": "image1-3",
@@ -89,7 +90,7 @@
           "_params": {
             "showText": true
           },
-          "text": "<div><br></div><div>I am a MC. I write about life. This Mixtape is about my life. It's about your life. It's the emotion of what life is about. It is the music that is made when you love the process. Unbreakable is about life struggles. What we go through in life. I'm not a one flow, one rhyme scheme pony. My versatility is the core of my music. I'm not trying to be nothing but a man raising two daughters from a situation their mother (my ex-wife) became a victim to the ills that I worked my whole life to avoid. This is my story, my life. I feel that everyone can share in my experience cause it is, more or less, our experience. Press play and let it roll.&nbsp;</div><br><div>For Producers and other Artists I am open to featuring on your projects. Feel free to contact me and tell me what you need from me.&nbsp;</div><br><div><br>Contact aleeus419@gmail.com for more information, features, interviews, or other media requests.</div>"
+          "text": "<div><br></div><div>I am a MC. I write about life. This Mixtape is about my life. It's about your life. It's the emotion of what life is about. It is the music that is made when you love the process. Unbreakable is about life struggles. What we go through in life. I'm not a one flow, one rhyme scheme pony. My versatility is the core of my music. I'm not trying to be nothing but a man raising two daughters from a situation their mother (my ex-wife) became a victim to&nbsp;<span style=\"line-height: 1.5;\">the ills that I worked my whole life to avoid. This is my story, my life. I feel that everyone can share in my experience cause it is, more or less, our experience. Press play and let it roll.&nbsp;</span></div><br><div>For Producers and other Artists I am open to featuring on your projects. Feel free to contact me and tell me what you need from me.&nbsp;</div><div><br>Contact aleeus419@gmail.com for more information, features, interviews, or other media requests.</div>"
         },
         {
           "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F312002958",
